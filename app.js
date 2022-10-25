@@ -5,7 +5,7 @@ const port = process.env.PORT || 3001;
 app.get("/", (req, res) => res.type('html').send(html));
 
 // About page route.
-router.get("/about", function (req, res) {
+app.get("/about", function (req, res) {
   res.send("About this wiki");
 });
 
