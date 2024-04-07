@@ -1,0 +1,203 @@
+[
+    {
+      "name": "Superman",
+      "alterEgo": {
+        "name": "Clark Kent",
+        "profession": "Journalist"
+      },
+      "powers": ["flight", "super strength", "heat vision"],
+      "homeLocation": "Metropolis",
+      "series": ["Superman", "Action Comics"]
+    },
+    {
+      "name": "Batman",
+      "alterEgo": {
+        "name": "Bruce Wayne",
+        "profession": "Businessman"
+      },
+      "powers": ["intelligence", "martial arts", "wealth"],
+      "homeLocation": "Gotham City",
+      "series": ["Batman", "Detective Comics"]
+    },
+    {
+      "name": "Wonder Woman",
+      "alterEgo": {
+        "name": "Diana Prince",
+        "profession": "Ambassador"
+      },
+      "powers": ["super strength", "speed", "lasso of truth"],
+      "homeLocation": "Themyscira",
+      "series": ["Wonder Woman"]
+    },
+    {
+      "name": "Spider-Man",
+      "alterEgo": {
+        "name": "Peter Parker",
+        "profession": "Photographer"
+      },
+      "powers": ["wall-crawling", "spider-sense", "web-slinging"],
+      "homeLocation": "New York City",
+      "series": ["Spider-Man", "The Amazing Spider-Man"]
+    },
+    {
+      "name": "Captain America",
+      "alterEgo": {
+        "name": "Steve Rogers",
+        "profession": "Soldier"
+      },
+      "powers": ["super soldier", "agility", "shield mastery"],
+      "homeLocation": "Brooklyn, New York",
+      "series": ["Captain America"]
+    },
+    {
+      "name": "Thor",
+      "alterEgo": {
+        "name": "Thor Odinson",
+        "profession": "Prince/Warrior"
+      },
+      "powers": ["super strength", "control over lightning", "flight"],
+      "homeLocation": "Asgard",
+      "series": ["Thor"]
+    },
+    {
+      "name": "Hulk",
+      "alterEgo": {
+        "name": "Bruce Banner",
+        "profession": "Scientist"
+      },
+      "powers": ["super strength", "invulnerability", "regeneration"],
+      "homeLocation": "Various",
+      "series": ["The Incredible Hulk"]
+    },
+    {
+      "name": "Iron Man",
+      "alterEgo": {
+        "name": "Tony Stark",
+        "profession": "Engineer/Businessman"
+      },
+      "powers": ["genius intellect", "powered armor suit"],
+      "homeLocation": "Malibu, California",
+      "series": ["Iron Man"]
+    },
+    {
+      "name": "Black Widow",
+      "alterEgo": {
+        "name": "Natasha Romanoff",
+        "profession": "Spy"
+      },
+      "powers": ["master spy", "martial arts", "weapons expert"],
+      "homeLocation": "Various",
+      "series": ["Black Widow"]
+    },
+    {
+      "name": "Captain Marvel",
+      "alterEgo": {
+        "name": "Carol Danvers",
+        "profession": "Air Force Officer"
+      },
+      "powers": ["flight", "super strength", "energy projection"],
+      "homeLocation": "Earth",
+      "series": ["Captain Marvel"]
+    },
+    {
+      "name": "Green Lantern",
+      "alterEgo": {
+        "name": "Hal Jordan",
+        "profession": "Test Pilot"
+      },
+      "powers": ["power ring", "flight", "energy constructs"],
+      "homeLocation": "Coast City",
+      "series": ["Green Lantern"]
+    },
+    {
+      "name": "The Flash",
+      "alterEgo": {
+        "name": "Barry Allen",
+        "profession": "Forensic Scientist"
+      },
+      "powers": ["super speed", "time manipulation"],
+      "homeLocation": "Central City",
+      "series": ["The Flash"]
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": {
+        "name": "Arthur Curry",
+        "profession": "Monarch"
+      },
+      "powers": ["super strength", "swimming", "telepathy"],
+      "homeLocation": "Atlantis",
+      "series": ["Aquaman"]
+    },
+    {
+      "name": "Black Panther",
+      "alterEgo": {
+        "name": "T'Challa",
+        "profession": "King/Scientist"
+      },
+      "powers": ["superhuman strength", "enhanced senses", "vibranium suit"],
+      "homeLocation": "Wakanda",
+      "series": ["Black Panther"]
+    },
+    {
+      "name": "Doctor Strange",
+      "alterEgo": {
+        "name": "Stephen Strange",
+        "profession": "Neurosurgeon"
+      },
+      "powers": ["sorcery", "time manipulation", "dimensional travel"],
+      "homeLocation": "New York City",
+      "series": ["Doctor Strange"]
+    },
+    {
+      "name": "Wolverine",
+      "alterEgo": {
+        "name": "Logan",
+        "profession": "Mercenary"
+      },
+      "powers": ["regeneration", "adamantium claws", "enhanced senses"],
+      "homeLocation": "Canada",
+      "series": ["Wolverine"]
+    },
+    {
+      "name": "Green Arrow",
+      "alterEgo": {
+        "name": "Oliver Queen",
+        "profession": "Businessman/Vigilante"
+      },
+      "powers": ["master archer", "expert martial artist", "strategic mind"],
+      "homeLocation": "Star City",
+      "series": ["Green Arrow"]
+    },
+    {
+      "name": "Storm",
+      "alterEgo": {
+        "name": "Ororo Munroe",
+        "profession": "Thief/Goddess"
+      },
+      "powers": ["weather manipulation", "flight", "energy manipulation"],
+      "homeLocation": "Kenya",
+      "series": ["X-Men"]
+    },
+    {
+      "name": "Daredevil",
+      "alterEgo": {
+        "name": "Matt Murdock",
+        "profession": "Lawyer"
+      },
+      "powers": ["enhanced senses", "martial arts", "radar sense"],
+      "homeLocation": "Hell's Kitchen, New York",
+      "series": ["Daredevil"]
+    },
+    {
+      "name": "Cyborg",
+      "alterEgo": {
+        "name": "Victor Stone",
+        "profession": "Athlete"
+      },
+      "powers": ["super strength", "technological enhancement", "energy blasts"],
+      "homeLocation": "Detroit",
+      "series": ["Justice League", "Teen Titans"]
+    }
+  ]
+  

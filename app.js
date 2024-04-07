@@ -2,11 +2,11 @@ const express = require("express");
 const app = express();
 const port = process.env.PORT || 3001;
 
-app.get("/", (req, res) => res.type('html').send(html));
+// app.get("/", (req, res) => res.type('html').send(html));
 
-// About page route.
-app.get("/about", function (req, res) {
-  res.send("About this wiki");
+// Home page route.
+app.get("/", function (req, res) {
+  res.send("Hello World");
 });
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
