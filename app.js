@@ -9,6 +9,23 @@ app.get("/", function (req, res) {
   res.send("Hello World");
 });
 
+// Define a route for superheroes
+app.get('/superheroes', (req, res) => {
+  // Read the JSON file containing superhero data
+  fs.readFile('superheroes.json', 'utf8', (err, data) => {
+    if (err) {
+      console.error('Error reading superheroes.json:', err);
+      res.status(500).send('Internal Server Error');
+      return;
+    }
+    // Parse the JSON data
+    const superheroes = JSON.parse(data);
+    // Sending the JSON response
+    res.json(superheroes);
+  });
+});
+
+
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
 
